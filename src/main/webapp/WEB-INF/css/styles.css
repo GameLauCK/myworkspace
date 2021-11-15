@@ -1,0 +1,10 @@
+h1,h2,h3,h4,h5,h6,p,a,.btn,label,table,div input{
+	font-family: "Poppins";
+	text-decoration: none;
+	margin: 10px;
+}
+
+table{
+ 	margin-left: auto;
+  	margin-right: auto;
+}
